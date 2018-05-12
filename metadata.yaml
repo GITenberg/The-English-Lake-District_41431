@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '41179'
     url: http://www.gutenberg.org/2009/agents/41179
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41431#The-English-Lake-District
 gutenberg_issued: '2012-11-21'
 gutenberg_type: Text
 identifiers:
