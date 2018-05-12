@@ -1,0 +1,36 @@
+_repo: The-English-Lake-District_41431
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cooper, A. Heaton (Alfred Heaton)
+    alias: Cooper, Alfred Heaton
+    birthdate: 1863
+    deathdate: 1929
+    gutenberg_agent_id: '26663'
+    url: http://www.gutenberg.org/2009/agents/26663
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Heaton_Cooper
+covers:
+- cover_type: archival
+  image_path: 41431-h/images/img-cover.jpg
+creator:
+  editor:
+    agent_name: Reynolds, Joan Berenice
+    alias: Reynolds, J. B.
+    gutenberg_agent_id: '41179'
+    url: http://www.gutenberg.org/2009/agents/41179
+description: ''
+gutenberg_issued: '2012-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Lake District (England) -- Pictorial works'
+- !lcc 'PR'
+- !lcsh 'Lake District (England) -- Literary collections'
+title: The English Lake District
+url: http://www.gutenberg.org/ebooks/41431
